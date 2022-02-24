@@ -7,10 +7,12 @@ What does this repository have?
 
 This model was based on the following equations:
 
-$$ \text{Slope: } \hat{\beta}_1=\frac{\sum_{i=1}^{n}(X_i-\bar{X})(Y_i-\bar{Y})}{\sum_{i=1}^{n}(X_i-\bar{X})^2} $$
+<!-- $$ \text{Slope: } \hat{\beta}_1=\frac{\sum_{i=1}^{n}(X_i-\bar{X})(Y_i-\bar{Y})}{\sum_{i=1}^{n}(X_i-\bar{X})^2} $$
 
 $$ \text{Intercept: } \hat{\beta}_0 = \bar{Y} - \hat{\beta}_1X $$
 
 $$ \text{Linear equation: } \hat{Y}_i = \hat{\beta}_0+\hat{\beta}_1X_i $$
 
-$$ \text{Residual sum of squares: } \sum_{i=1}^{n}(Y_i-\hat{Y}_i)^2 $$
+$$ \text{Residual sum of squares: } \sum_{i=1}^{n}(Y_i-\hat{Y}_i)^2 $$ -->
+
+![equations](equations.png)
